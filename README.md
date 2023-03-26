@@ -17,5 +17,5 @@ Some of open source projects that I've been working on/contributing to:
 - https://github.com/ShangHua-Gao/SOD100K (Highly efficient salient object detection model with only about 100k parameters.)
 - https://github.com/ShangHua-Gao/RFNext (Effective and fast receptive field searching method.)
 - https://github.com/ShangHua-Gao/RBN (An improvement of BatchNorm with stronger inference performance.)
-- 
+
 - [mmdetection](https://github.com/open-mmlab/mmdetection) [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) [mmcv](https://github.com/open-mmlab/mmcv) (Res2Net, RFNext, LUSS are inside openmmlab.)
