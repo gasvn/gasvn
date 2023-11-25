@@ -3,6 +3,7 @@ I am a great fan of open source, as it makes research work valuable for many peo
 
 Some of open source projects that I've been working on/contributing to:
 - https://github.com/sail-sg/EditAnything (Aims to Edit and Generate Anything in an image with the help of Segment Anything etc.)
+- https://github.com/zhoudaquan/ChatAnything (Facetime Chat with LLM-Enhanced Personas.)
 - https://github.com/sail-sg/MDT (Masked Diffusion Transformer is the SOTA for image synthesis.)
 - https://github.com/sail-sg/TEC (A very fast and effective self-supervised pretraining method towards sustainable self-supervised learning.)
 - https://github.com/LUSSeg (The first method and benchmark for large-scale unsupervised semantic segmentation.)
