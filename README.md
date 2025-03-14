@@ -2,6 +2,8 @@ Shanghua Gao, a researcher working on computer vision and representation learnin
 I am a great fan of open source, as it makes research work valuable for many people.
 
 Some of open source projects that I've been working on/contributing to:
+- https://github.com/mims-harvard/TxAgent TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools （TxAgent = Multi-step reasoning + function calls to 200+ tools）
+- https://github.com/mims-harvard/ToolUniverse ToolUniverse is a collection of biomedical tools designed for AI agents.
 - https://github.com/mims-harvard/UniTS (UniTS is a unified time series model that can process various tasks across multiple domains with shared parameters.)
 - https://github.com/sail-sg/EditAnything (Aims to Edit and Generate Anything in an image with the help of Segment Anything etc.)
 - https://github.com/zhoudaquan/ChatAnything (Facetime Chat with LLM-Enhanced Personas.)
